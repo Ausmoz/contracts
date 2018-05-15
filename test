@@ -1,4 +1,4 @@
-// BIT Token test
+// BIT Token test 2
 pragma solidity ^0.4.16;
 
 contract TokenERC20 {
